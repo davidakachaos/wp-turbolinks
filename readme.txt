@@ -22,7 +22,7 @@ Want to know more? See the [Turbolinks project page](https://github.com/rails/tu
 
 Also includes [jquery.turbolinks](https://github.com/kossnocorp/jquery.turbolinks) for jQuery support.
 
-The idea is to just enable the plugin and make your blog faster. Sites with heavy JavaScript may have some problems, and is not necessarily recommended.
+The idea is to just enable the plugin and make your blog faster. Sites with heavy JavaScript may have some problems, and is not necessarily recommended. There are documented workarounds and fixes for popular JavaScript libraries located at the [Turbolinks Compatibility project](http://reed.github.io/turbolinks-compatibility/).
 
 There are probably a lot of bugs. Please report them!
 
