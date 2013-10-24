@@ -1,5 +1,5 @@
 # Rails / Turbolinks
-# Extracted from commit f90775d484b78f5ffd823f13f2265aef52a2620c
+# Extracted from commit a0a382a9871dac859a4282312603394adb9f13a6
 
 pageCache      = {}
 cacheSize      = 10
