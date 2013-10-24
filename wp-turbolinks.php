@@ -1,6 +1,11 @@
 <?php
 /*
  * Plugin Name: Turbolinks for WordPress
+ * Plugin URI: https://github.com/keichan34/wp-turbolinks
+ * Author: Keitaroh Kobayashi
+ * Version: 1.0
+ * Description: Make your links faster!
+ * License: MIT
  */
 
 // Enqueue turbolinks
